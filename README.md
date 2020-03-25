@@ -9,7 +9,7 @@ DiLu.m
 TestDilu.m
   -An example script to execute the DiLu.m function with an example image
   
-# Reference
+## Reference
 
 The reference taken to implement this method is:
 
@@ -17,8 +17,6 @@ The reference taken to implement this method is:
 ## Citing this code
 
 When citing this code, please refer use this entry:
-
-
 
 ## License
 
