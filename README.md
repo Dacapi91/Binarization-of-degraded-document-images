@@ -6,6 +6,7 @@ This repository is the implementation of an algorithm that binarizes degraded do
 
 DiLu.m
   -The function to be called that executes the main binarization algorithm
+  
 TestDilu.m
   -An example script to execute the DiLu.m function with an example image
   
