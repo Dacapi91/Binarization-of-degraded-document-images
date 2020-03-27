@@ -1,8 +1,12 @@
 # Binarization-of-degraded-document-images
 
-This repository is the implementation of an algorithm that binarizes degraded document images proposed by Di Lu. The method is implemented in MATLAB and is intented to be used to advance reasearch in the scientific community. This method was programmed according to the reference information.
+This repository is the implementation of an algorithm that binarizes degraded document images proposed by Di Lu. The method is implemented in MATLAB and is intented to be used to advance reasearch in the scientific community. This method was programmed according to the reference information. The following images show the binarization result with the implemented method 
+
+## Document Binarization example
 
 ![Document Image](https://github.com/Dacapi91/Binarization-of-degraded-document-images/blob/master/PR1.png)
+
+![Document Binarized](https://github.com/Dacapi91/Binarization-of-degraded-document-images/blob/master/PR1-binarized-output.png)
 
 ## Files description:
 
